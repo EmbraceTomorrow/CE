@@ -1,0 +1,8 @@
+torch
+numpy
+setproctitle
+torchvision
+tqdm
+torchsummary
+pillow
+tensorboard
